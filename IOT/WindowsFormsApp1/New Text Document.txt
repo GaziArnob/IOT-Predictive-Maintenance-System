@@ -1,0 +1,101 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Data.SqlClient;
+using System.Drawing;
+using System.Linq;
+using System.Security.Cryptography;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace WindowsFormsApp1
+{
+    public partial class Register : Form
+    {
+        public Register()
+        {
+            InitializeComponent();
+        }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string connectionString = "data source=DESKTOP-C095TBV\\SQLEXPRESS; database=Resister1; integrated security=SSPI";
+
+            string id = idtext.Text.Trim();
+            string name = nametext.Text.Trim();
+            string age = textBox7.Text.Trim();
+            string address = addresstext.Text.Trim();
+            string email = emailtext.Text.Trim();
+            string phone = phonenumbertext.Text.Trim();
+            string dob = dobtext.Text.Trim();
+            string gender;
+            if (Male.Checked)
+            {
+                gender = Male.Text;
+            }
+            else if (Female.Checked)
+            {
+                gender = Female.Text;
+            }
+            else
+            {
+                gender = Others.Text;
+            }
+
+            if (string.IsNullOrWhiteSpace(id) || string.IsNullOrWhiteSpace(name) ||
+                 string.IsNullOrWhiteSpace(age) || string.IsNullOrWhiteSpace(address) ||
+                 string.IsNullOrWhiteSpace(email) || string.IsNullOrWhiteSpace(phone) ||
+                 string.IsNullOrWhiteSpace(gender) || string.IsNullOrWhiteSpace(dob))
+
+            {
+                MessageBox.Show("All fields must be filled out.", "Validation Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            if (!int.TryParse(age, out int parsedAge))
+            {
+                MessageBox.Show("Age must be a valid number.", "Validation Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            string query = "INSERT INTO Table_1 (Id, Name, Age, Address,Email,Phone,Gender,DateOfBirth) VALUES (@Id, @Name, @Age, @Address ,@Email,@Phone ,@Gender,@DateOfBirth)";
+
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                using (SqlCommand command = new SqlCommand(query, connection))
+                {
+                    command.Parameters.AddWithValue("@Id", id);
+                    command.Parameters.AddWithValue("@Name", name);
+                    command.Parameters.AddWithValue("@Age", parsedAge);
+                    command.Parameters.AddWithValue("@Address", address);
+                    command.Parameters.AddWithValue("@Email", email);
+                    command.Parameters.AddWithValue("@Phone", phone);
+                    command.Parameters.AddWithValue("@Gender",gender);
+                    command.Parameters.AddWithValue("@DateOfBirth", dob);
+
+                    connection.Open();
+                    int rowsAffected = command.ExecuteNonQuery();
+
+                    if (rowsAffected > 0)
+                    {
+                        MessageBox.Show("Profile created successfully!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        this.Hide();
+                        Form1 f1 = new Form1();
+                        f1.Show();
+                    }
+                    else
+                    {
+                        MessageBox.Show("Failed to create the profile. Please try again.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,85 @@
+D:\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+D:\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Register.resources
+D:\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Register.resources
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DataBase.resources
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Local_Database.resources
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update.resources
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Machine.resources
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Machine_Database.resources
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Machine_updatecs.resources
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Maintain.resources
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sensor.resources
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.workers.resources
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.worker_update.resources
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Work_order.resources
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Work_order_update.resources
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SensorDatabase.resources
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.sensordatabase1.resources
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sensor_Upadte.resources
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sensor_Update.resources
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SansorData.resources
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.Memory.dll
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Twilio.dll
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.Memory.xml
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Twilio.xml
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MachineDashboardApp.resources
+D:\IOT based predicitive maintenance system\IOT based predicitive maintenance system\IOT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date

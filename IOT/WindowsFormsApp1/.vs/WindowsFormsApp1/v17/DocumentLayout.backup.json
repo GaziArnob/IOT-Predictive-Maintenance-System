@@ -1,0 +1,739 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\maintain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\maintain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\work_order_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\work_order_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\iot based predicitive maintenance system\\iot based predicitive maintenance system\\iot\\windowsformsapp1\\windowsformsapp1\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\work_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\work_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\machinedashboardapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\machinedashboardapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\machinedashboardapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\machinedashboardapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\sensordatabase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\sensordatabase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\sansordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\sansordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\machine_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\machine_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\local_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\local_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\work_order_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\work_order_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\maintain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\maintain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\worker_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\worker_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\workers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\workers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\machine_updatecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\machine_updatecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\machine_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\machine_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\local_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\local_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\sensor_upadte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\sensor_upadte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\sensor_upadte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\sensor_upadte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\machine_updatecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\machine_updatecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\sensor_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\sensor_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\sensor_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\sensor_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\worker_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\worker_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\sansordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\sansordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\workers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\workers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\sensordatabase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\sensordatabase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\work_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\work_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\windowsformsapp1\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Work_order.cs [Design]",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Work_order.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Work_order.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Work_order.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Work_order.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:19:02.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form2.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Form2.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T05:05:25.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Form3.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form3.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Form3.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T17:23:01.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.cs",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Home.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Home.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Home.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Home.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAF0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:29:31.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "sensordatabase1.cs",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\sensordatabase1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\sensordatabase1.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\sensordatabase1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\sensordatabase1.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T06:18:40.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T15:16:34.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Work_order_update.cs",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Work_order_update.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Work_order_update.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Work_order_update.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Work_order_update.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAlwHQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T14:41:53.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Maintain.cs [Design]",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Maintain.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Maintain.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Maintain.cs [Design]*",
+              "RelativeToolTip": "WindowsFormsApp1\\Maintain.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T10:02:37.868Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Home.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Home.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Home.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T06:30:59.316Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MachineDashboardApp.cs [Design]",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\MachineDashboardApp.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\MachineDashboardApp.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\MachineDashboardApp.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\MachineDashboardApp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T18:49:50.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MachineDashboardApp.cs",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\MachineDashboardApp.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\MachineDashboardApp.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\MachineDashboardApp.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\MachineDashboardApp.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAuwPYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T18:50:26.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\DataBase.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\DataBase.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\DataBase.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\DataBase.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswFgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T17:16:37.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form2.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Form2.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form2.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBAAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T05:06:43.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SansorData.cs",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\SansorData.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\SansorData.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\SansorData.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\SansorData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:30:54.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T11:35:22.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Form3.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form3.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Form3.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T17:40:29.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Local_Database.cs",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Local_Database.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Local_Database.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Local_Database.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Local_Database.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAAwLYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T20:40:46.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DataBase.cs [Design]",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\DataBase.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\DataBase.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\DataBase.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\DataBase.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T16:30:44.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Machine.cs",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Machine.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Machine.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Machine.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Machine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:29:38.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Machine_Database.cs",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Machine_Database.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Machine_Database.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Machine_Database.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Machine_Database.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAwwIEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T07:24:37.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Work_order_update.cs [Design]",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Work_order_update.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Work_order_update.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Work_order_update.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Work_order_update.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T14:41:48.332Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Maintain.cs",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Maintain.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Maintain.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Maintain.cs*",
+              "RelativeToolTip": "WindowsFormsApp1\\Maintain.cs*",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAswFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T17:32:15.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "worker_update.cs [Design]",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\worker_update.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\worker_update.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\worker_update.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\worker_update.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T18:27:30.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "workers.cs [Design]",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\workers.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\workers.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\workers.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\workers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T14:11:09.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Register.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Register.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Register.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T14:55:24.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Machine_updatecs.cs [Design]",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Machine_updatecs.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Machine_updatecs.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Machine_updatecs.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Machine_updatecs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T15:10:28.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Machine_Database.cs [Design]",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Machine_Database.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Machine_Database.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Machine_Database.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Machine_Database.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T15:09:21.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Machine.cs [Design]",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Machine.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Machine.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Machine.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Machine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T20:19:50.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Local_Database.cs [Design]",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Local_Database.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Local_Database.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Local_Database.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Local_Database.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T16:02:00.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Sensor_Upadte.cs",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Sensor_Upadte.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Sensor_Upadte.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Sensor_Upadte.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Sensor_Upadte.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAlwKYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T05:49:53.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Machine_updatecs.cs",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Machine_updatecs.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Machine_updatecs.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Machine_updatecs.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Machine_updatecs.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAAJsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T06:45:04.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Sensor_Upadte.cs [Design]",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Sensor_Upadte.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Sensor_Upadte.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Sensor_Upadte.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Sensor_Upadte.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T18:25:37.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Sensor_Update.cs",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Sensor_Update.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Sensor_Update.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Sensor_Update.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Sensor_Update.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAowJIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T09:59:08.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Sensor_Update.cs [Design]",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Sensor_Update.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Sensor_Update.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Sensor_Update.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Sensor_Update.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T09:07:20.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "worker_update.cs",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\worker_update.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\worker_update.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\worker_update.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\worker_update.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:32:33.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T19:58:40.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "workers.cs",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\workers.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\workers.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\workers.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\workers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAkAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T20:39:59.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SansorData.cs [Design]",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\SansorData.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\SansorData.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\SansorData.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\SansorData.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:27:14.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Update.cs [Design]",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Update.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Update.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Update.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Update.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T19:07:39.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "sensordatabase1.cs [Design]",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\sensordatabase1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\sensordatabase1.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\sensordatabase1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\sensordatabase1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T18:27:00.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Sensor.cs [Design]",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Sensor.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Sensor.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Sensor.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Sensor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T16:37:57.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Work_order.cs",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Work_order.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Work_order.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Work_order.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Work_order.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T20:37:41.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Register.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Register.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Register.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Register.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAYwG8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T15:01:58.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Update.cs",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Update.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Update.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Update.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Update.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA+wBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T19:13:03.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Sensor.cs",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Sensor.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Sensor.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Sensor.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Sensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T16:39:11.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Register.Designer.cs",
+              "DocumentMoniker": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Register.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Register.Designer.cs",
+              "ToolTip": "D:\\IOT based predicitive maintenance system\\IOT based predicitive maintenance system\\IOT\\WindowsFormsApp1\\WindowsFormsApp1\\Register.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Register.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T18:45:16.687Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

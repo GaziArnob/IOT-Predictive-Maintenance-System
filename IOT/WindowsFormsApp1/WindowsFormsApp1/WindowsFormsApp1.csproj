@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{39EAD793-1A7E-4CFB-B8A1-43F6EFFB5FE9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.8.0.0\lib\net462\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.Memory, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.Memory.9.0.0\lib\net462\Microsoft.Bcl.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.TimeProvider, Version=8.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.TimeProvider.8.0.1\lib\net462\Microsoft.Bcl.TimeProvider.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions, Version=2.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.Abstractions.2.1.0\lib\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.Abstractions, Version=8.3.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.IdentityModel.Abstractions.8.3.1\lib\net472\Microsoft.IdentityModel.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.JsonWebTokens, Version=8.3.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.IdentityModel.JsonWebTokens.8.3.1\lib\net472\Microsoft.IdentityModel.JsonWebTokens.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.Logging, Version=8.3.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.IdentityModel.Logging.8.3.1\lib\net472\Microsoft.IdentityModel.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.Tokens, Version=8.3.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.IdentityModel.Tokens.8.3.1\lib\net472\Microsoft.IdentityModel.Tokens.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.Specialized, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Collections.Specialized.4.3.0\lib\net46\System.Collections.Specialized.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.IdentityModel.Tokens.Jwt, Version=8.3.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IdentityModel.Tokens.Jwt.8.3.1\lib\net472\System.IdentityModel.Tokens.Jwt.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.8.0.0\lib\net462\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=8.0.0.5, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.8.0.5\lib\net462\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Twilio, Version=7.13.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Twilio.7.13.1\lib\net462\Twilio.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataBase.Designer.cs">
+      <DependentUpon>DataBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Local_Database.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Local_Database.Designer.cs">
+      <DependentUpon>Local_Database.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Machine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Machine.Designer.cs">
+      <DependentUpon>Machine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MachineDashboardApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MachineDashboardApp.Designer.cs">
+      <DependentUpon>MachineDashboardApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Machine_Database.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Machine_Database.Designer.cs">
+      <DependentUpon>Machine_Database.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Machine_updatecs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Machine_updatecs.Designer.cs">
+      <DependentUpon>Machine_updatecs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Maintain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Maintain.Designer.cs">
+      <DependentUpon>Maintain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SansorData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SansorData.Designer.cs">
+      <DependentUpon>SansorData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sensor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sensor.Designer.cs">
+      <DependentUpon>Sensor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SensorDatabase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SensorDatabase.Designer.cs">
+      <DependentUpon>SensorDatabase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sensordatabase1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sensordatabase1.Designer.cs">
+      <DependentUpon>sensordatabase1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sensor_Upadte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sensor_Upadte.Designer.cs">
+      <DependentUpon>Sensor_Upadte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sensor_Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sensor_Update.Designer.cs">
+      <DependentUpon>Sensor_Update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update.Designer.cs">
+      <DependentUpon>Update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="workers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="workers.Designer.cs">
+      <DependentUpon>workers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="worker_update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="worker_update.Designer.cs">
+      <DependentUpon>worker_update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Work_order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Work_order.Designer.cs">
+      <DependentUpon>Work_order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Work_order_update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Work_order_update.Designer.cs">
+      <DependentUpon>Work_order_update.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="DataBase.resx">
+      <DependentUpon>DataBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Local_Database.resx">
+      <DependentUpon>Local_Database.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Machine.resx">
+      <DependentUpon>Machine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MachineDashboardApp.resx">
+      <DependentUpon>MachineDashboardApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Machine_Database.resx">
+      <DependentUpon>Machine_Database.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Machine_updatecs.resx">
+      <DependentUpon>Machine_updatecs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Maintain.resx">
+      <DependentUpon>Maintain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SansorData.resx">
+      <DependentUpon>SansorData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sensor.resx">
+      <DependentUpon>Sensor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SensorDatabase.resx">
+      <DependentUpon>SensorDatabase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sensordatabase1.resx">
+      <DependentUpon>sensordatabase1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sensor_Upadte.resx">
+      <DependentUpon>Sensor_Upadte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sensor_Update.resx">
+      <DependentUpon>Sensor_Update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update.resx">
+      <DependentUpon>Update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="workers.resx">
+      <DependentUpon>workers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="worker_update.resx">
+      <DependentUpon>worker_update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Work_order.resx">
+      <DependentUpon>Work_order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Work_order_update.resx">
+      <DependentUpon>Work_order_update.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2025-08-31 at 01.04.43_aaa6e965.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\citadel-life-safety-K4dBR3TiH4U-unsplash.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\isawred-P9YUxV6_YUc-unsplash.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\23867240.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1185915.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vintage-gear-machinery-logo-by-yahyaanasatokillah1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gillette_Sensor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database-icon-logo-modern-line-style-high-quality-black-outline-pictogram-web-site-design-mobile-apps-vector-81367946.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database-icon-logo-modern-line-style-high-quality-black-outline-pictogram-web-site-design-mobile-apps-vector-813679461.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database-icon-logo-modern-line-style-high-quality-black-outline-pictogram-web-site-design-mobile-apps-vector-813679462.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maintenance-record.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Predictive-maintenance-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\66318217-database-icon-or-logo-in-modern-line-style-high-quality-black-outline-pictogram-for-web-site-design.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b0e1e2c3-a614-4392-967d-5b92bce04779.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\isawred-P9YUxV6_YUc-unsplash1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\86403_press_lg.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\large-nsk-286-s.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giant_185883.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2022010100000273499.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\press1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Predictive-maintenance-11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Predictive-maintenance-12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\isawred-P9YUxV6_YUc-unsplash2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\what-is-pressure-sensor.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\max471-voltage-current-sensor-module-datasheet.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Predictive-maintenance-13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Predictive-maintenance-14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\predictive-maintenance-and-IoT-main-photo-min.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gettyimages-1439344468-612x612.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gettyimages-1439344468-612x6121.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-beautiful-maintenance-vector-glyph-icon-png-image_1799017.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-settings-maintenance-icon-on-white-background-png-image_4945796.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-black-maintenance-tool-icon-free-png-transparent-material-image_2290611.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7fe06fd33791f89217ef8cb12268f7a1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hand-holding-spanner-symbol-repairs-maintenance-service-concept-2C9EC6M.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\predictive-maintenance-and-IoT-main-photo-min1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maintenance-line-icon-free-vector.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\isawred-P9YUxV6_YUc-unsplash3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-639849256-612x612.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\isawred-P9YUxV6_YUc-unsplash4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\isawred-P9YUxV6_YUc-unsplash5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\isawred-P9YUxV6_YUc-unsplash6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-dashboard-glyph-black-icon-png-image_691533.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-analyticsprocessingdashboarddatastats-glyph-icon-on-tran-png-image_1219585.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-1313665882-612x612.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
